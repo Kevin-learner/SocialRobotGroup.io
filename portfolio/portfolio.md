@@ -27,7 +27,7 @@
 
 | Member | Photo | Brief Introduction | Personal Page |  
 |:------:|:-----:|:------------------:|:------------------:|
-| **Kaiwen Lu** | ![Kaiwen Lu](./images/kaiwen_lu.jpg) | Robotics MSc student (UTwente), interested in control systems, SLAM, and robot design. | *(To be filled) |
+| **Kaiwen Lu** | ![Kaiwen Lu](./images/kaiwenlu_portfolio.jpg) | Robotics MSc student (UTwente), interested in control systems, SLAM, and robot design. | *(To be filled) |
 | **[Member 2 Name]** | ![Member 2](./images/member2.jpg) | *(To be filled by Member 2)* |*(To be filled) |
 | **[Member 3 Name]** | ![Member 3](./images/member3.jpg) | *(To be filled by Member 3)* |*(To be filled) |
 | **[Member 4 Name]** | ![Member 4](./images/member4.jpg) | *(To be filled by Member 4)* |*(To be filled) |
