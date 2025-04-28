@@ -4,8 +4,6 @@
 - **Nationality:** Chinese  
 - **Born:** 2002  
 - **Location:** Enschede, Netherlands  
-- **Email:** 13049703360@163.com  
-- **Phone:** +31687357309 / +8613049703360  
 - **Titles:** Master of Robotics  
 - **Languages:** English (IELTS 7.5)
 
@@ -100,9 +98,3 @@
 - Playing piano and cooking
 - Developing small games with the Unity engine
 
----
-
-# Contact
-- **Email:** 13049703360@163.com  
-- **Phone:** +31687357309 / +8613049703360  
-- **Location:** Enschede, Netherlands
