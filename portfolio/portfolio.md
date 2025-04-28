@@ -2,7 +2,7 @@
 # Social Robot Design Portfolio
 
 ## Table of Contents
-- [Team Introduction](#team-introduction)
+- [About Me](#team-introduction)
 - [Group Work](#group-work)
   - [Case Description](#case-description)
   - [Selection of Useful Design Tools](#selection-of-useful-design-tools)
