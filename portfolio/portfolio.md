@@ -34,10 +34,13 @@
 ## Group Work
 
 ### Case Description
-*(To be added)*
+ROSE (Robot Operating System Environment) is a social robot development platform based on ROS, often using the TIAGo robot manufactured by PAL Robotics as its hardware foundation. TIAGo is a multifunctional robot that integrates a mobile base, robotic arm, elevating torso, and a variety of sensors (such as lidar, RGB-D cameras, etc.), and is widely used in research, education, and human-robot interaction fields. 
+Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 
 ### Selection of Useful Design Tools
-*(To be added)*
+Creative Brainstorms
+Wizard of Oz
+Persona
 
 ### Mindmap of Problem Space
 *(To be added)*
@@ -59,16 +62,16 @@
 ## Reflections
 
 ### How is Design Research linked to HRI
-*(To be added)*
+Design research, through human-centered approaches, helps to deeply understand the real needs, emotions and behavioral responses of users when interacting with robots. Through observation, interviews and prototype testing, design research reveals details that are often overlooked in traditional technology development, such as trust, natural communication and social acceptance, thereby promoting HRI systems to become more natural, efficient and enjoyable. It prompts the shift of human-robot interaction from "technology-centered" to "experience-centered", achieving better social integration.
 
 ### Digital (AI) vs Embodiment
-*(To be added)*
+In the design of social robots, digital AI (chatbots) have significant limitations compared to physical robots. Take for example toys that are physical entities. The sense of satisfaction and warmth that one gets from hugging a plush toy is definitely quite different from that of hugging a cold steel block. Not to mention digital AI that has no physical form at all. Robots with physical forms will give users a more intuitive first impression, demonstrating their inherent functions and providing more interaction methods with users. In reality, people's communication involves various senses such as vision, hearing, smell and touch. However, chatbots AI are unable to meet these needs. Or rather, they can only partially observe these aspects of humans in a one-way manner. This can lead to a sense of distrust and communication barriers.
 
 ### Why is "HER" (not) a Compelling Argument?
-*(To be added)*
+I find it unpersuasive that someone could fall in love with an intangible AI. I myself experienced a long-distance relationship. Although we can now communicate through video calls, it still can't bridge the gap of deepening distrust and estrangement. Eventually, this relationship ended in a breakup.
 
 ### The Robot Revolution: When?
-*(To be added)*
+When the social productive forces are developing at an extremely rapid pace, and when people not only need robots in the production field but also in terms of quality of life, the robot revolution will arrive.
 
 ### Reflection: The Dinosaur Hotel
 *(To be added)*
@@ -84,5 +87,4 @@
 
 ---
 
-> This portfolio is developed collaboratively by our project team.  
 > All contents will be updated during the project progress.
