@@ -25,9 +25,9 @@
 
 ## About Me
 
-| Member | Photo | Brief Introduction | Personal Page |  
-|:------:|:-----:|:----------:|:------------------:|
-| **Kaiwen Lu** | <img src="./image/kaiwenlu_portfolio.jpg" alt="Kaiwen Lu" width="150"/> |  Master student in Robotics at the University of Twente. Background in Mechanical Engineering from Shanghai Jiao Tong University. Experienced in control systems, SLAM, robot navigation, and 3D modeling. Passionate about human-robot interaction, mechatronics design, and AI applications in robotics.  | [Link](./personalPage/Kaiwenlu_CV_Eng.pdf)  |
+| Member | Brief Introduction | Personal Page |  
+|:------:|:----------:|:------------------:|
+| **Kaiwen Lu** | Master student in Robotics at the University of Twente. Background in Mechanical Engineering from Shanghai Jiao Tong University. Experienced in control systems, SLAM, robot navigation, and 3D modeling. Passionate about human-robot interaction, mechatronics design, and AI applications in robotics.  | [Link](./personalPage/Kaiwenlu_CV_Eng.pdf)  |
 
 ---
 
