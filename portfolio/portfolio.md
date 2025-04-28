@@ -74,16 +74,20 @@ I find it unpersuasive that someone could fall in love with an intangible AI. I 
 When the social productive forces are developing at an extremely rapid pace, and when people not only need robots in the production field but also in terms of quality of life, the robot revolution will arrive.
 
 ### Reflection: The Dinosaur Hotel
-*(To be added)*
+The "Dinosaur Hotel" in Japan (Henn na Hotel) initially attracted much attention with its robot receptionists and fully automated services, reflecting people's expectations for future technological hotels. However, the actual operational results were not satisfactory. Many robots were unable to effectively handle complex or unconventional customer demands, such as not being able to understand customers' questions, misidentifying in noisy environments, and lacking the ability to handle emergencies. This led to a decline in guest experience, and eventually the hotel had to rehire a large number of human employees. 
+This reflects an important issue: In the service industry, "cool novelty" cannot truly replace "flexibility, empathy and judgment". Although robots have advantages in performing simple and repetitive tasks, when faced with rich and diverse actual scenarios, robots lacking contextual understanding and emotional responses find it difficult to provide satisfactory service experiences. Especially in environments like hotels that emphasize personalized reception and delicate care, purely pursuing efficiency can actually undermine the overall experience of customers.
 
 ### Reflection: Nabaztag
-*(To be added)*
+As an early internet-connected pet robot, Nabaztag won the affection of many users in the early stage with its cute appearance and basic internet functions (such as reading the weather, email reminders, swaying ears, etc.). It successfully seized the novel concept of "Internet of Things cute pets", making the interaction between humans and technology more intimate and interesting. However, as time went by, the limitations of Nabaztag gradually became apparent. Its interaction capabilities were limited, updates were slow, and it couldn't continuously meet users' expectations for "companionship" and "intelligence" that were constantly improving. People soon lost interest in simple notifications and mechanical actions, and the lack of emotional deepening connections also made it difficult for them to form a long-term reliance. 
+This indicates that in the design of social robots, merely relying on novelty and appearance to attract attention is far from sufficient. What users truly desire is an intelligent companion that can continuously evolve, understand them, and establish emotional connections. When robots fail to grow along with changes in user needs, the initial curiosity will soon fade away, ultimately leading to the abandonment of the product.
 
 ### Reflection: Cuddlebits
-*(To be added)*
+Cuddlebits can evoke more resonance and protective instincts in people through subtle movements (such as quivering and curling up) and natural reactions to touch. This "soft and vivid" characteristic makes them more like real small animals, thereby triggering people's instinctive concern and emotional investment. 
+This indicates that in the human-machine emotional relationship, "high intelligence" is not the key to touching people's hearts. On the contrary, traits such as being soft, vulnerable, and needing care are more likely to trigger deep emotional connections. The design of Cuddlebits reminds us that truly effective human-machine interaction does not necessarily require complex language and task completion capabilities. Sometimes, a simple, touchable and understandable little being is enough to establish a strong emotional bond.
 
 ### Reflection: Be-Right-Back
-*(To be added)*
+The concept of "Be-right-back" originates from the idea of using artificial intelligence technology to "revive" the deceased relatives. For instance, through chat records and social media data, a "digital personality" can be reconstructed. Although this technology can bring comfort to those who have lost their loved ones in the short term, it also raises profound ethical and emotional issues. Firstly, the simulated "existence" is never truly human; it lacks independent growth and genuine emotions. Secondly, this technology may delay the normal mourning process of people, turning sadness into a reliance on false connections. 
+This reflection reminds us that technology can reproduce language and behavioral patterns, but it cannot truly replicate the unique and profound emotional relationships between people. In the face of loss, humans need memory and acceptance rather than remaining stuck in a false "farewell" forever. Therefore, although "be-right-back" is tempting from a technical perspective, from the viewpoints of emotional health and ethics, it is not a truly desirable solution.
 
 ---
 
