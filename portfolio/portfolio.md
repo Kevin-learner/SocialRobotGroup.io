@@ -38,9 +38,13 @@ ROSE (Robot Operating System Environment) is a social robot development platform
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 
 ### Selection of Useful Design Tools
-Creative Brainstorms
+Senario Analysis
+
+Story Boarding
 
 Wizard of Oz
+
+Lego Series
 
 Persona
 
