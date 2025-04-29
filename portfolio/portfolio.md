@@ -39,7 +39,9 @@ Our case is to apply the ROSE robot in elderly care to accomplish three applicat
 
 ### Selection of Useful Design Tools
 Creative Brainstorms
+
 Wizard of Oz
+
 Persona
 
 ### Mindmap of Problem Space
