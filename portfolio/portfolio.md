@@ -38,15 +38,18 @@ ROSE (Robot Operating System Environment) is a social robot development platform
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 
 ### Selection of Useful Design Tools
-Senario Analysis
+#### Senario Analysis
+references:
+(1) Through the dual-track deduction of the best scenario and the worst scenario, break through the linear prediction model, and systematically simulate the development paths of positive and negative extremes that deviate from the long-term trend; (2) Based on the dynamic correlation analysis between key influencing factors and the goals, guide participants to independently develop differentiated future scenarios and form strategic predictions covering the possibility spectrum; (3) Taking the preset scenarios as the creative anchor points, drive participants to transform abstract variables into specific action strategies, achieving decision support from risk contingency plans to opportunity capture. This method effectively balances the rigor and innovative tension of strategic planning by structuring the imaginative space.[Busse T, Kernebeck S, Nef L, Rebacz P, Kickbusch I, Ehlers J
+Views on Using Social Robots in Professional Caregiving: Content Analysis of a Scenario Method Workshop
+J Med Internet Res 2021;23(11):e20046](https://www.jmir.org/2021/11/e20046/)
 
-Story Boarding
+#### Story Boarding
 
-Wizard of Oz
+#### Wizard of Oz
 
-Lego Series
+#### Lego Series
 
-Persona
 
 ### Senarios
 *(To be added)*
