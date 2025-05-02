@@ -96,15 +96,23 @@ The concept of "Be-right-back" originates from the idea of using artificial inte
 This reflection reminds us that technology can reproduce language and behavioral patterns, but it cannot truly replicate the unique and profound emotional relationships between people. In the face of loss, humans need memory and acceptance rather than remaining stuck in a false "farewell" forever. Therefore, although "be-right-back" is tempting from a technical perspective, from the viewpoints of emotional health and ethics, it is not a truly desirable solution.
 
 ### Sci-fi prototyping
+The prototype design based on science fiction novels can easily demonstrate the philosophical contemplations of different people on a certain scientific phenomenon, because novels are ultimately supposed to serve the purpose of shaping the protagonists. As for the plot of the novel, the functions of the prototype of the robot might be described in a more coherent way. However, in science fiction novels, in order to create dramatic conflicts, extreme situations can be simulated. In such cases, the story becomes less credible.
 
 ### 21st century robot project
+The aspect that most impresses me about this project is that it emphasizes not merely building a "machine" that can move and speak, but creating an "existence" that has a story, a motivation, and can be understood and accepted by humans. In my view, this design approach of robots with personality shaping and social role setting is the key that distinguishes social robots from traditional automated devices. 
+It also made me reflect that perhaps we are too prone to equate "high intelligence" with "good robots"? Maybe a little robot that can understand your silence and quietly accompany you when you are down is far more meaningful in reality than an "intelligent butler" that can solve complex mathematical problems. This project reminds me that true design is not just about solving problems, but about constructing meaning and relationships.
 
-### rosy consumer stories
+### Rosy consumer stories
+"Rosy Consumer Stories" made me realize that users' expectations of social robots are often idealized, romanticized or even surreal. People hope that robots can not only complete tasks efficiently, but also understand, accompany and respond to emotions like friends. These "rosy" consumption stories, though seemingly unrealistic, truly reflect people's emotional desires and psychological projections when facing technology.
 
-### importance of storytelling for HRI specifically
 
-### evidence based work (health) vs robot stories (and perceived competence)
+### Importance of storytelling for HRI specifically
+In Human-Robot Interaction (HRI), storytelling is not merely a means of communication but also a crucial way to endow robots with personalities, intentions and emotions. Compared with the cold and command-style dialogues, stories can make robots appear more "lively" and more likely to evoke emotional resonance from users. A robot with a background, goals and "personality" is often more trustworthy, likable, and even given a "companion-like" status. 
+HRI is not merely a technical issue of speech recognition and path planning, but rather about the construction of "relationships". Telling stories can create a "comprehensible motivational framework" for robots, allowing users to understand why they perform certain behaviors, thereby reducing uncertainty and discomfort. This is particularly important when humans interact with unfamiliar technologies.
+
+### Evidence based work (health) vs robot stories (and perceived competence)
 Although storytelling can enhance the emotional connection between robots and users, in a medical environment, robots also need to demonstrate their professional competence and reliability. Therefore, designers need to strike a balance between emotional communication and professional performance to increase users' trust and acceptance of robots.
+
 ---
 
 > All contents will be updated during the project progress.
