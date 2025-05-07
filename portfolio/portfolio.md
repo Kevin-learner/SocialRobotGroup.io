@@ -46,7 +46,13 @@ Wizard of Oz, through the design of restricted perception experiments, simulates
 
 
 ### Senarios
-*(To be added)*
+Low user trust/low robot understanding:
+70-year-old Bob was influenced by science fiction movies and believed that robots were villains who would rule the earth, so he did not trust and was afraid of robots.
+Bob felt uncomfortable in his heart and sat on the sofa, holding his chest and breathing, but did not speak. The robot could not recognize the meaning of Bob's subtle movements and thought that Bob was dancing, and began to ask Bob if he needed to play music to accompany him.
+Bob said sarcastically, "You are so smart", and the robot responded, "Thank you for the compliment, I will continue to work hard"
+
+Problems with this scenario response:
+The robot lacks "micro-movement" and "micro-expression" recognition, cannot understand the intention represented by human movements, lacks a model for emotional context analysis, and cannot recognize the emotions expressed by humans through voice intonation.
 
 ### Mindmap of Problem Space
 *(To be added)*
