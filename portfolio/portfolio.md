@@ -86,7 +86,45 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 *(To be added)*
 
 ### Expressiveness
+observation of paper-puppeteering：
 
+01
+Action description: Swing left and right at a constant speed, then jump for 5 seconds and then jump in place at a very fast speed
+Guess: excited
+
+02
+Action description: Hit the ground with the head at a constant speed and then swing left and right at a constant speed
+Guess: The robot wants to express its needs
+
+03
+Action description: Quickly retreat in place
+Guess: The robot wants to walk with me
+
+04
+Action description: The body leans to the right and maintains this action
+Guess: Thinking
+
+05
+Action description: Sprint forward at a very fast speed
+Guess: The emotion is hate
+
+06
+Action description: The whole body flips over, imitating a human lying on the ground, or slowly lowering the head
+Guess: Sad emotion
+
+
+
+LED:
+
+1. Emotional expression and feedback: Express emotions by controlling the combined shape, color and flashing frequency of LED.
+Application:
+Blue eyes + slow flashing + smiling shape or circle - Indicates that the robot is in a calm state (no task mode), and slow blinking indicates friendly attention to humans and is ready to communicate with humans at any time
+Red eyes + rapid flashing + triangle shape - When the robot detects danger and issues a warning, the eyes turn red and flash quickly to attract the user's attention
+
+2. Health monitoring and reminders: Use LED eye changes to remind the elderly of daily health matters, such as taking medicine, drinking water, resting, etc.
+Application:
+Green eyes - Indicates that the elderly are in good health. When the elderly complete their daily walking goals or take medicine on time, the green eyes flash slowly to encourage
+Red eyes - For example, when the elderly miss medication or bedtime, the eyes turn red and flash quickly (slower than when prompting danger signals to distinguish)
 ---
 
 ## Reflections
