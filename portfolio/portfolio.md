@@ -135,6 +135,24 @@ HRI is not merely a technical issue of speech recognition and path planning, but
 ### Evidence based work (health) vs robot stories (and perceived competence)
 Although storytelling can enhance the emotional connection between robots and users, in a medical environment, robots also need to demonstrate their professional competence and reliability. Therefore, designers need to strike a balance between emotional communication and professional performance to increase users' trust and acceptance of robots.
 
+### Design (rules) from the work of Ju&Hoffman
+Ju and Hoffman's work made me see that robots aren't just machines that get things done—they're also "communicators." They pointed out that instead of always using words or language, you can show what you mean through actions. That really got me thinking about how important actions are when it comes to interacting with others. We often assume communication is all about talking, but actually, body language is one of the most basic and clear ways we express ourselves. This idea makes me realize that when designing social robots, clear and expressive movements might make people feel more connected and trusting than even the best voice recognition systems.
+
+### What are the downsides of (and are there alternatives to) designing robot communication
+The design of robot communication systems is often limited by human language models. We are too accustomed to "letting robots speak like humans". However, in practical use, such imitation often leads to misunderstandings and discomfort, and even gives people the illusion that the robot really "understands". I think that rather than blindly imitating, it is better to explore more transparent and genuine communication methods, such as visual signals, tones, and light feedback. Although these alternative methods are simple, they are more in line with the essence of the machine and are also easier to build trust. Robots don't have to be like humans, but they must be able to be "understood" by humans.
+
+### Should we take HHI (human-human interaction) as a starting point for designing HRI.. (hint: for motivation look into the work by Heather Knight)
+I once took it for granted that the interaction pattern among humans (HHI) naturally applies to the interaction between humans and machines (HRI). But Heather Knight's research changed my opinion. She mentioned that techniques such as "drama", "rhythm" and "expected disruption" in performing arts are more effective in robot design. This view inspires me: Robots are not inferior versions of "imitations of humans", but brand-new interactive objects. Design should start from understanding the expressive ability of machines rather than forcibly applying human rules.
+
+### Laban works for characterising motion. Which aspects apply to sound or other modalities?
+Laban's Motor Language Analysis (LMA) was originally used to describe human movement, but when I attempted to apply it to sound or tactile feedback, I surprisingly found that it was equally applicable. For instance, "weight" can be transformed into the intensity of volume, "time" corresponds to the speed of rhythm, and "flow" is manifested as a continuous or fragmented sound stream. This cross-modal way of understanding made me realize that the conveyance of emotions does not depend on the medium, but on "change itself". Whether it is light, sound or movement, the essence of design is to evoke feelings.
+
+### can you design anti-social behaviour? what is the difference with simply the 'absence' of social behaviour?
+Designing anti-social behavior sounds like "creating bad people", but I realize it has its significance. For instance, having robots show resistance, indifference or silence in specific situations can make users aware of the boundaries of their own behaviors and can also be used as educational and psychological treatment tools. "Antisocial" is not completely negative; it is a kind of boundary expression of social behavior. Compared with "no social behavior", it is more intentional and more worthy of our attention in design.
+
+
+
+
 ---
 
 > All contents will be updated during the project progress.
