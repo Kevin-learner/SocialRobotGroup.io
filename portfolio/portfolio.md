@@ -88,6 +88,8 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ### Expressiveness
 observation of paper-puppeteering：
 
+observation recording: https://youtu.be/jthQCp5BSxM
+
 01
 Action description: Swing left and right at a constant speed, then jump for 5 seconds and then jump in place at a very fast speed
 Guess: excited
