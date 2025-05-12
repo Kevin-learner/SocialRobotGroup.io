@@ -125,6 +125,32 @@ Red eyes + rapid flashing + triangle shape - When the robot detects danger and i
 Application:
 Green eyes - Indicates that the elderly are in good health. When the elderly complete their daily walking goals or take medicine on time, the green eyes flash slowly to encourage
 Red eyes - For example, when the elderly miss medication or bedtime, the eyes turn red and flash quickly (slower than when prompting danger signals to distinguish)
+
+#### A tool* for expressiveness
+EMO-CUE is a multimodal, low-threshold prototype expression toolbox, consisting of the following components:
+
+##### Expressive Cue Cards
+
+Each card represents an emotion/intention state (such as "I'm listening to you", "I need help", "I'm worried about you"), and the back of the card gives suggestions for multimodal expression combinations:
+
+Light color changes (such as red → anxiety, blue → calm, orange → need interaction)
+
+Vibration or tactile feedback (continuous/pulse rhythm)
+
+Small movement patterns (head turn/backward/forward)
+
+Voice intonation fragments (non-semantic "hmm~", "hiss~", etc.)
+
+##### Hardware modules/low-fidelity prototypes
+
+Use programmable Arduino or micro:bit to control small motors (express retreat), RGB lights (express state changes), and buzzers (simulate intonation).
+
+Allow users to quickly combine and test interactive expressions by mapping cards → modules.
+
+##### Improvisational Scenarios
+
+Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
+
 ---
 
 ## Reflections
