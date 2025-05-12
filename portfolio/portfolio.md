@@ -85,6 +85,8 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ### Pitch / Slide
 *(To be added)*
 
+### Expressiveness
+
 ---
 
 ## Reflections
