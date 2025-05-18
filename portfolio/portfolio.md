@@ -155,12 +155,12 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-## Reflections
+# Reflections
 
 ---
 
 <details>
-<summary><strong>Start</strong></summary>
+<summary><strong>## Start</strong></summary>
   
 ### How is Design Research linked to HRI
 Design research, through human-centered approaches, helps to deeply understand the real needs, emotions and behavioral responses of users when interacting with robots. Through observation, interviews and prototype testing, design research reveals details that are often overlooked in traditional technology development, such as trust, natural communication and social acceptance, thereby promoting HRI systems to become more natural, efficient and enjoyable. It prompts the shift of human-robot interaction from "technology-centered" to "experience-centered", achieving better social integration.
@@ -195,7 +195,7 @@ This reflection reminds us that technology can reproduce language and behavioral
 ---
 
 <details>
-<summary><strong>Story building</strong></summary>
+<summary><strong>## Story building</strong></summary>
 
 ### Sci-fi prototyping
 The prototype design based on science fiction novels can easily demonstrate the philosophical contemplations of different people on a certain scientific phenomenon, because novels are ultimately supposed to serve the purpose of shaping the protagonists. As for the plot of the novel, the functions of the prototype of the robot might be described in a more coherent way. However, in science fiction novels, in order to create dramatic conflicts, extreme situations can be simulated. In such cases, the story becomes less credible.
@@ -220,7 +220,7 @@ Although storytelling can enhance the emotional connection between robots and us
 ---
 
 <details>
-<summary><strong>Expressiveness</strong></summary>
+<summary><strong>## Expressiveness</strong></summary>
   
 ### Design (rules) from the work of Ju&Hoffman
 Ju and Hoffman's work made me see that robots aren't just machines that get things done—they're also "communicators." They pointed out that instead of always using words or language, you can show what you mean through actions. That really got me thinking about how important actions are when it comes to interacting with others. We often assume communication is all about talking, but actually, body language is one of the most basic and clear ways we express ourselves. This idea makes me realize that when designing social robots, clear and expressive movements might make people feel more connected and trusting than even the best voice recognition systems.
@@ -242,7 +242,7 @@ Designing anti-social behavior sounds like "creating bad people", but I realize 
 ---
 
 <details>
-<summary><strong>Embodiment</strong></summary>
+<summary><strong>## Embodiment</strong></summary>
 
 </details>
 
