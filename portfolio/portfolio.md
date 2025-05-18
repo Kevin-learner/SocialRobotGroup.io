@@ -244,6 +244,22 @@ Designing anti-social behavior sounds like "creating bad people", but I realize 
 <details>
 <summary><strong>Embodiment</strong></summary>
 
+### embodied agents v.s. virtual agents  and hybrid shapes
+I believe that embodied agents have a natural advantage in building trust and evoking emotional resonance. People are more likely to respond socially to a "present" entity, such as smiling, looking, and stepping back. Virtual agents, although easier to deploy, update, and safer, lack a sense of spatial presence and are not easy to trigger real "social identification."
+
+"Hybrid shapes" such as skeuomorphic digital characters in AR/VR are in the middle ground. Their challenge is: do they "look like" or are they really "interactive"? As a designer, I realize that the choice of form should be based on the specific application scenario - in places with high empathy needs such as hospitals and elderly care, embodiment may be more important; in scenarios such as education and entertainment, virtual characters may be enough.
+
+### robotic capabilities vs social aspects of the design
+Many robot projects overemphasize "what can be done", such as being able to grasp, navigate, and communicate, but ignore "how people will feel". In the design of social robots, I am increasingly aware that technical capabilities are only the underlying support, and what really affects users is social expression. A clumsy but polite robot may be more popular than an efficient but indifferent robot arm.
+
+Therefore, designers should not only pursue "strong functions", but also pay attention to users' interpretation and reaction to machine behavior. This also means that we should regard "behavioral design" as part of the main design work, not just the added value of the interface or hardware appearance.
+
+### 'function defines form' vs social requirements?
+Traditional industrial design emphasizes "function determines form", but in social robot design, I find that this logic is often reversed: "social needs" in turn shape the form of the machine. For example, even if a companion robot only needs to talk, it still needs a "head" and "eyes" because these are extremely important clues in human interaction.
+
+### What are relevant insights by Duffy et al. for you as a designer
+Duffy proposed that anthropomorphism is not a false analogy, but a natural and necessary cognitive strategy in the interaction between people and technology. This inspired me: we should not try to "eliminate anthropomorphism" but guide it by design. People always project emotions, roles and intentions on robots, so why don't we actively give these machines the appropriate social behavior framework?
+
 </details>
 
 ---
