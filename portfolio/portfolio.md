@@ -190,6 +190,8 @@ This indicates that in the human-machine emotional relationship, "high intellige
 The concept of "Be-right-back" originates from the idea of using artificial intelligence technology to "revive" the deceased relatives. For instance, through chat records and social media data, a "digital personality" can be reconstructed. Although this technology can bring comfort to those who have lost their loved ones in the short term, it also raises profound ethical and emotional issues. Firstly, the simulated "existence" is never truly human; it lacks independent growth and genuine emotions. Secondly, this technology may delay the normal mourning process of people, turning sadness into a reliance on false connections. 
 This reflection reminds us that technology can reproduce language and behavioral patterns, but it cannot truly replicate the unique and profound emotional relationships between people. In the face of loss, humans need memory and acceptance rather than remaining stuck in a false "farewell" forever. Therefore, although "be-right-back" is tempting from a technical perspective, from the viewpoints of emotional health and ethics, it is not a truly desirable solution.
 
+</details>
+
 ---
 
 ### Sci-fi prototyping
