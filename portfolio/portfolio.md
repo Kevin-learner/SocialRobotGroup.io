@@ -160,7 +160,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 ---
 
 <details>
-<summary><strong>## Start</strong></summary>
+<summary><strong> ## Start</strong></summary>
   
 ### How is Design Research linked to HRI
 Design research, through human-centered approaches, helps to deeply understand the real needs, emotions and behavioral responses of users when interacting with robots. Through observation, interviews and prototype testing, design research reveals details that are often overlooked in traditional technology development, such as trust, natural communication and social acceptance, thereby promoting HRI systems to become more natural, efficient and enjoyable. It prompts the shift of human-robot interaction from "technology-centered" to "experience-centered", achieving better social integration.
