@@ -194,6 +194,9 @@ This reflection reminds us that technology can reproduce language and behavioral
 
 ---
 
+<details>
+<summary><strong>Story building</strong></summary>
+
 ### Sci-fi prototyping
 The prototype design based on science fiction novels can easily demonstrate the philosophical contemplations of different people on a certain scientific phenomenon, because novels are ultimately supposed to serve the purpose of shaping the protagonists. As for the plot of the novel, the functions of the prototype of the robot might be described in a more coherent way. However, in science fiction novels, in order to create dramatic conflicts, extreme situations can be simulated. In such cases, the story becomes less credible.
 
@@ -212,6 +215,13 @@ HRI is not merely a technical issue of speech recognition and path planning, but
 ### Evidence based work (health) vs robot stories (and perceived competence)
 Although storytelling can enhance the emotional connection between robots and users, in a medical environment, robots also need to demonstrate their professional competence and reliability. Therefore, designers need to strike a balance between emotional communication and professional performance to increase users' trust and acceptance of robots.
 
+</details>
+
+---
+
+<details>
+<summary><strong>Expressiveness</strong></summary>
+  
 ### Design (rules) from the work of Ju&Hoffman
 Ju and Hoffman's work made me see that robots aren't just machines that get things done—they're also "communicators." They pointed out that instead of always using words or language, you can show what you mean through actions. That really got me thinking about how important actions are when it comes to interacting with others. We often assume communication is all about talking, but actually, body language is one of the most basic and clear ways we express ourselves. This idea makes me realize that when designing social robots, clear and expressive movements might make people feel more connected and trusting than even the best voice recognition systems.
 
@@ -227,9 +237,16 @@ Laban's Motor Language Analysis (LMA) was originally used to describe human move
 ### can you design anti-social behaviour? what is the difference with simply the 'absence' of social behaviour?
 Designing anti-social behavior sounds like "creating bad people", but I realize it has its significance. For instance, having robots show resistance, indifference or silence in specific situations can make users aware of the boundaries of their own behaviors and can also be used as educational and psychological treatment tools. "Antisocial" is not completely negative; it is a kind of boundary expression of social behavior. Compared with "no social behavior", it is more intentional and more worthy of our attention in design.
 
+</details>
 
+---
 
+<details>
+<summary><strong>Embodiment</strong></summary>
 
+</details>
+
+---
 ---
 
 > All contents will be updated during the project progress.
