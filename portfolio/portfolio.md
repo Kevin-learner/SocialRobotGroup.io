@@ -195,7 +195,7 @@ This reflection reminds us that technology can reproduce language and behavioral
 ---
 
 <details>
-<summary><strong>## Story building</strong></summary>
+<summary><strong>Story building</strong></summary>
 
 ### Sci-fi prototyping
 The prototype design based on science fiction novels can easily demonstrate the philosophical contemplations of different people on a certain scientific phenomenon, because novels are ultimately supposed to serve the purpose of shaping the protagonists. As for the plot of the novel, the functions of the prototype of the robot might be described in a more coherent way. However, in science fiction novels, in order to create dramatic conflicts, extreme situations can be simulated. In such cases, the story becomes less credible.
