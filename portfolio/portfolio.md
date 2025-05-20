@@ -13,9 +13,8 @@
 
 ## Group Work
 
-## Case 1
 <details>
-
+<summary><strong> Case 1: ROSE </strong></summary>
 
 ### Case Description
 ROSE (Robot Operating System Environment) is a social robot development platform based on ROS, often using the TIAGo robot manufactured by PAL Robotics as its hardware foundation. TIAGo is a multifunctional robot that integrates a mobile base, robotic arm, elevating torso, and a variety of sensors (such as lidar, RGB-D cameras, etc.), and is widely used in research, education, and human-robot interaction fields. 
