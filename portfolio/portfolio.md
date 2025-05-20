@@ -18,6 +18,25 @@
 
 ### Case Description
 ROSE (Robot Operating System Environment) is a social robot development platform based on ROS, often using the TIAGo robot manufactured by PAL Robotics as its hardware foundation. TIAGo is a multifunctional robot that integrates a mobile base, robotic arm, elevating torso, and a variety of sensors (such as lidar, RGB-D cameras, etc.), and is widely used in research, education, and human-robot interaction fields. 
+
+#### Existed Functions and Scenario Analysis
+##### Stories/narratives in media and project data & Currently developed scenarios
+Narratives/themes identified: 
+
+(1) Intentional vs Unintentional Obstruction: A recurring narrative involves distinguishing between human behaviors that are socially intentional (e.g., trying to engage with the robot) vs unintentional (e.g., unaware obstruction).
+
+(2) Navigation in constrained environments: Especially in healthcare settings like hospital corridors, robots face complex human-robot interaction scenarios.
+
+(3) Social cues as interaction triggers: Stories often revolve around the robot interpreting gaze, movement hesitation, and posture as signals of human intent
+
+Application Scenarios
+
+(1) Logistics: ROSE delivering samples or items in hospital environments while interacting with or avoiding people.
+
+(2) Companionship/personal assistance: Visitors engaging intentionally with the robot out of curiosity or for help.
+
+(3) Health/nutrition advice: Potential future use cases hinted through the broader categories in the tool list.
+#### Our case
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 
 ### Selection of Useful Design Tools
@@ -160,7 +179,6 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 </details>
 ---
 
----
 
 # Reflections
 
