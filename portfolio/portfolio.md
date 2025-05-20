@@ -157,7 +157,7 @@ Allow users to quickly combine and test interactive expressions by mapping cards
 Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
 
 
-<details>
+</details>
 ---
 
 ---
