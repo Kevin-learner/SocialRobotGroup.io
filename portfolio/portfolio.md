@@ -179,7 +179,8 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ### 🤖 Design Behavior  
 **Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
-![Social Robot Behavior](Social Robot Behavior.png)
+
+![Social Robot Behavior](SocialRobotBehavior.png)
 
 ---
 
