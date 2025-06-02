@@ -175,14 +175,15 @@ Allow users to quickly combine and test interactive expressions by mapping cards
 
 Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
 
-![Social Robot Behavior](Social Robot Behavior.drawio.png)
 
-# 🤖 Human-Robot Interaction Scenarios for Elderly Support  
+
+### 🤖 Design Behavior  
 **Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
+![Social Robot Behavior](Social Robot Behavior.png)
 
 ---
 
-## 🧾 Scenario 1: Helping Reach High or Low Items
+#### 🧾 Scenario 1: Helping Reach High or Low Items
 
 **Dialogue**  
 > "Yes, it's on the top shelf," said the elderly person.  
@@ -200,7 +201,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-## 🧾 Scenario 2: Keeping the Environment Clean
+#### 🧾 Scenario 2: Keeping the Environment Clean
 
 **Dialogue**  
 > "The floor seems dusty today," the resident commented.  
@@ -218,7 +219,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-## 🧾 Scenario 3: Measuring Blood Pressure
+#### 🧾 Scenario 3: Measuring Blood Pressure
 
 **Dialogue**  
 > "Could you check my blood pressure, please?"  
@@ -235,7 +236,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-## 🧾 Scenario 4: Urine Test Analysis
+#### 🧾 Scenario 4: Urine Test Analysis
 
 **Dialogue**  
 > "I’ve just placed the sample."  
@@ -251,7 +252,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-## 🧾 Scenario 5: Logging and Reporting Results
+#### 🧾 Scenario 5: Logging and Reporting Results
 
 **Dialogue**  
 > "Please send the result to my daughter."  
