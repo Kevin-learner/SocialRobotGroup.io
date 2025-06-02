@@ -175,6 +175,96 @@ Allow users to quickly combine and test interactive expressions by mapping cards
 
 Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
 
+![Social Robot Behavior](portfolio/Social Robot Behavior.drawio.png)
+
+# 🤖 Human-Robot Interaction Scenarios for Elderly Support  
+**Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
+
+---
+
+## 🧾 Scenario 1: Helping Reach High or Low Items
+
+**Dialogue**  
+> "Yes, it's on the top shelf," said the elderly person.  
+> The robot extended its arm, looked up to the cabinet, grasped the item carefully, and handed it to the user with a smile.
+
+**Involved Technologies**  
+- `Speech recognition`  
+- `LLM + context understanding`  
+- `Visual input & scene understanding`  
+- `Object localisation`  
+- `Vision-based grasping & manipulation`  
+- `Motion planning`  
+- `Human-robot interaction & gesture coordination`  
+- `Affective computing (smile, polite gesture)`
+
+---
+
+## 🧾 Scenario 2: Keeping the Environment Clean
+
+**Dialogue**  
+> "The floor seems dusty today," the resident commented.  
+> The robot activated its vacuum module, scanned the room, navigated around the furniture, and started cleaning.  
+> "Done! The room is clean now," it announced.
+
+**Involved Technologies**  
+- `Speech recognition`  
+- `LLM (intent understanding)`  
+- `SLAM (localisation and mapping)`  
+- `Path planning & obstacle avoidance`  
+- `Dust detection (semantic segmentation)`  
+- `Vacuum actuation control`  
+- `Affective feedback (speech & tone modulation)`
+
+---
+
+## 🧾 Scenario 3: Measuring Blood Pressure
+
+**Dialogue**  
+> "Could you check my blood pressure, please?"  
+> The robot retrieved the BP cuff, wrapped it gently around the user’s arm, initiated the measurement, and read the result aloud.
+
+**Involved Technologies**  
+- `Speech recognition`  
+- `LLM (command understanding)`  
+- `Manipulation & touch-sensitive actuation`  
+- `Biosensor integration (BP monitor control)`  
+- `Real-time data acquisition`  
+- `Voice synthesis (result announcement)`  
+- `Context tracking (session continuity)`
+
+---
+
+## 🧾 Scenario 4: Urine Test Analysis
+
+**Dialogue**  
+> "I’ve just placed the sample."  
+> The robot detected the container, moved it into the analysis bay, and displayed the result on the screen: "All values normal today."
+
+**Involved Technologies**  
+- `Speech recognition & intent parsing`  
+- `Object detection & classification`  
+- `Grasping & manipulation (careful handling)`  
+- `Lab-on-robot analysis module integration`  
+- `Visual display & voice feedback`  
+- `Context awareness (health logs, timestamping)`
+
+---
+
+## 🧾 Scenario 5: Logging and Reporting Results
+
+**Dialogue**  
+> "Please send the result to my daughter."  
+> The robot encrypted the report and uploaded it securely to the connected caregiver app.
+
+**Involved Technologies**  
+- `LLM (command parsing)`  
+- `User profile management`  
+- `Secure data logging & transmission`  
+- `Cloud integration`  
+- `Role-aware access control`  
+- `Affective computing (respectful tone and privacy handling)`
+
 
 </details>
 ---
