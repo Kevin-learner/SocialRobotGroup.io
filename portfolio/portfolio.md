@@ -107,6 +107,8 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ### Pitch / Slide
 *(To be added)*
 
+---
+
 ### Expressiveness
 observation of paper-puppeteering：
 
@@ -175,7 +177,7 @@ Allow users to quickly combine and test interactive expressions by mapping cards
 
 Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
 
-
+---
 
 ### 🤖 Design Behavior  
 **Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
@@ -267,9 +269,14 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 - `Role-aware access control`  
 - `Affective computing (respectful tone and privacy handling)`
 
+---
+
+### Sustainability and ethics
+
 
 </details>
 ---
+
 
 
 # Reflections
