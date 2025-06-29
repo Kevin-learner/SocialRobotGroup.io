@@ -93,7 +93,7 @@ Although the robot detected the problem and called her daughter and the nearby m
 
 Problems with this scenario response: The robot can rocognize people’s emotion and other data and try to offer help. But users’trust to the robot are so low that even they share the same goal, the users still cannot accept the robot’s help as a daily routine.
 ### Mindmap of Problem Space
-*(To be added)*
+![Mindmap of Problem Space](Mind map.png)
 
 ### Potential Building Blocks
 *(To be added)*
@@ -179,7 +179,7 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-### 🤖 Design Behavior  
+### Design Behavior  
 **Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
 
 ![Social Robot Behavior](SocialRobotBehavior.png)
