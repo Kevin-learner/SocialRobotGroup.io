@@ -256,8 +256,11 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 <details>
 <summary><strong> Embodiment </strong></summary>
-(embodiment1.png)
-(embodiment2.png)
+
+![embodiment1](embodiment1.png)
+
+![embodiment2](embodiment2.png)
+
 </details>
 
 ---
