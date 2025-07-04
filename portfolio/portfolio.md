@@ -341,6 +341,13 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 ---
 
 <details>
+<summary><strong> Embodiment </strong></summary>
+
+</details>
+
+---
+
+<details>
 <summary><strong> Sustainability and ethics </strong></summary>
 Envisioning Cards are a practical design tool developed to translate complex theoretical concepts—especially from Value Sensitive Design (VSD) and Multi-lifespan Design (MLD)—into concrete actions for designers. [Yoo, Daisy and Logler, Nick and Ballard, Stephanie and Friedman, Batya, "Multi-lifespan Envisioning Cards: Journeying from Design Theory to Tools for Action,"2022, Association for Computing Machinery](https://dl.acm.org/doi/pdf/10.1145/3532106.3533495)
 By applying the four aspects of the envision card: Changing Hands, Environmental Sustainability, The Long Now, Work of the Future, we can consider the ethical issues of robots and their relationship with people during the design process.
