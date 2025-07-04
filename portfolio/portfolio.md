@@ -248,6 +248,13 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
+
+<details>
+<summary><strong> Embodiment </strong></summary>
+
+</details>
+
+---
 <details>
 <summary><strong>  Design Behavior   </strong></summary>
 
@@ -344,12 +351,6 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 ---
 
-<details>
-<summary><strong> Embodiment </strong></summary>
-
-</details>
-
----
 
 <details>
 <summary><strong> Sustainability and ethics </strong></summary>
