@@ -39,6 +39,7 @@ Application Scenarios
 #### Our case
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 </details>
+
 ---
 
 <details>
@@ -71,6 +72,7 @@ Wizard of Oz, through the design of restricted perception experiments, simulates
 
 #### Lego Series
 </details>
+
 ---
 
 <details>
@@ -104,6 +106,7 @@ Although the robot detected the problem and called her daughter and the nearby m
 
 Problems with this scenario response: The robot can rocognize people’s emotion and other data and try to offer help. But users’trust to the robot are so low that even they share the same goal, the users still cannot accept the robot’s help as a daily routine.
 </details>
+
 ---
 
 <details>
@@ -166,9 +169,11 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ### Pitch / Slide
 ![Pitch](robotpitch.pdf)
 
----
+
 </details>
+
 ---
+
 ### Expressiveness
 observation of paper-puppeteering：
 
