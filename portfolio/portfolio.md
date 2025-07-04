@@ -40,8 +40,9 @@ Application Scenarios
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
 </details>
 ---
+
 <details>
-### Selection of Useful Design Tools
+<summary><strong> Selection of Useful Design Tools </strong></summary>
 
   
 #### Senario Analysis
@@ -73,7 +74,7 @@ Wizard of Oz, through the design of restricted perception experiments, simulates
 ---
 
 <details>
-### Senarios
+<summary><strong> Scenarios </strong></summary>
 
 For the interaction between users and robots to be appropriate and sustainable, it is necessary to reduce the influence of uncertainty and negative emotions. Therefore, in addition to the robot's own understanding ability of semantics, it is also necessary to consider different scenarios where users have varying levels of trust in the robot.
 [Miller Linda , Kraus Johannes , Babel Franziska , Baumann Martin, "More Than a Feeling—Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety," 2021 Vol12 Frontiers in Psychology, doi:10.3389/fpsyg.2021.592711](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.592711
@@ -106,7 +107,7 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ---
 
 <details>
-### Overview Design
+<summary><strong> Overview Design </strong></summary>
 
 ### Mindmap of Problem Space
 ![Mindmap of Problem Space](Mindmap.png)
