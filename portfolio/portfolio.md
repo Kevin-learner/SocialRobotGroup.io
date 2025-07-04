@@ -103,7 +103,7 @@ Can be derived in the Mindmap
 
 
 ### Pitch / Slide
-![Pitch](robot pitch.pdf)
+![Pitch](robotpitch.pdf)
 
 ---
 
