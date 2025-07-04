@@ -43,6 +43,72 @@ Our case is to apply the ROSE robot in elderly care to accomplish three applicat
 ---
 
 <details>
+<summary><strong> Overview Design </strong></summary>
+
+### Mindmap of Problem Space
+![Mindmap of Problem Space](Mindmap.png)
+
+### Potential Building Blocks
+#### Perception and Sensing
+- Camera
+- Lidar
+- Microphone/Speaker
+- Medical Sensors
+#### Robot Mobility & Manipulation
+- Arm Manipulation
+- Mobile Control
+#### Human-Robot Interaction
+- NLP
+- Touchscreen interface
+#### Alert System
+#### System integration
+
+### Functional Breakdown
+#### Assist in Retrieving Objects
+- Environment Perception and Object detection
+- Understand Human Commands
+- Navigation
+- Manipulate and Retrieve object
+- Deliver Object to Elderly
+
+#### Maintain clean and tidy environment
+- Detect Mess / Dirt / Items Out of Place
+- Plan Cleaning or Tidy Task
+- Simple Manipulations
+- Navigation
+
+#### Support Daily Health Self-Assessment
+- Prompt and Guide Elderly
+- Integrate with Medical Devices
+- Record and Analyze Results
+- Communicate with Caregiver if Needed
+
+### Potential Experimental approach
+#### Verify that robot can complete tasks autonomously
+#### Evaluate naturalness, trust, and ease of use
+#### Observe learning curve and routine integration
+
+| Aspect                | Metric/Tool                            |
+| --------------------- | -------------------------------------- |
+| Task performance      | Task success rate, time, failure modes |
+| HRI usability         | SUS, NASA TLX, interaction steps       |
+| Trust & acceptance    | Almere Model Questionnaire             |
+| Speech recognition    | Command success rate, retry frequency  |
+| Grasping accuracy     | Grasp success rate, misplacement rate  |
+| System robustness     | Downtime, recovery from error          |
+| Data privacy handling | Consent protocol, encryption logs      |
+
+
+### Pitch / Slide
+![Pitch](robotpitch.pdf)
+
+
+</details>
+
+---
+
+
+<details>
 <summary><strong> Selection of Useful Design Tools </strong></summary>
 
   
@@ -109,70 +175,6 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 
 ---
 
-<details>
-<summary><strong> Overview Design </strong></summary>
-
-### Mindmap of Problem Space
-![Mindmap of Problem Space](Mindmap.png)
-
-### Potential Building Blocks
-#### Perception and Sensing
-- Camera
-- Lidar
-- Microphone/Speaker
-- Medical Sensors
-#### Robot Mobility & Manipulation
-- Arm Manipulation
-- Mobile Control
-#### Human-Robot Interaction
-- NLP
-- Touchscreen interface
-#### Alert System
-#### System integration
-
-### Functional Breakdown
-#### Assist in Retrieving Objects
-- Environment Perception and Object detection
-- Understand Human Commands
-- Navigation
-- Manipulate and Retrieve object
-- Deliver Object to Elderly
-
-#### Maintain clean and tidy environment
-- Detect Mess / Dirt / Items Out of Place
-- Plan Cleaning or Tidy Task
-- Simple Manipulations
-- Navigation
-
-#### Support Daily Health Self-Assessment
-- Prompt and Guide Elderly
-- Integrate with Medical Devices
-- Record and Analyze Results
-- Communicate with Caregiver if Needed
-
-### Potential Experimental approach
-#### Verify that robot can complete tasks autonomously
-#### Evaluate naturalness, trust, and ease of use
-#### Observe learning curve and routine integration
-
-| Aspect                | Metric/Tool                            |
-| --------------------- | -------------------------------------- |
-| Task performance      | Task success rate, time, failure modes |
-| HRI usability         | SUS, NASA TLX, interaction steps       |
-| Trust & acceptance    | Almere Model Questionnaire             |
-| Speech recognition    | Command success rate, retry frequency  |
-| Grasping accuracy     | Grasp success rate, misplacement rate  |
-| System robustness     | Downtime, recovery from error          |
-| Data privacy handling | Consent protocol, encryption logs      |
-
-
-### Pitch / Slide
-![Pitch](robotpitch.pdf)
-
-
-</details>
-
----
 
 ### Expressiveness
 observation of paper-puppeteering：
@@ -354,6 +356,7 @@ This long-term change needs to be considered in the design stage to ensure that 
 
 ####
 </details>
+
 ---
 
 
