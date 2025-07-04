@@ -101,19 +101,9 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ### Potential Building Blocks
 Can be derived in the Mindmap
 
-### Functional Breakdown
-#### Getting items
-
-#### Cleaning environment
-
-#### Assising health assessment
-
-
-### Potential Experimental Approach
-*(To be added)*
 
 ### Pitch / Slide
-*(To be added)*
+![Pitch](robot pitch.pdf)
 
 ---
 
