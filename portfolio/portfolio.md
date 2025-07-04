@@ -380,7 +380,11 @@ According to the envision cards "The Long Now", we envision a 50-year old who ha
 At the age of 50, the robot intervenes in life as a practical tool, but not a core part of life. By the age of 55, the elderly have become accustomed to the company of the robot and begin to rely more on the robot for daily reminders and health monitoring. At the age of 60, the elderly may be highly dependent on the robot both physically and emotionally, and the family also fully trusts the robot to take care of the elderly. At the age of 70, the robot even replaces the elderly's existing interpersonal relationships to some extent, weakening personal autonomy and initiative.
 The ethical concern highlighted here is that over-reliance on robots may lead to social isolation over time, weakening the connection between people and human communities.
 This long-term change needs to be considered in the design stage to ensure that robots complement rather than replace the care of the elderly, and promote relationships between people rather than isolate people's social relationship.
-####
+
+### Result
+The Envisioning Cards tool helped us reflect on long-term robot use. “Changing Hands” shows the need for memory transfer, modular design, and privacy when ownership changes. “The Long Now” warns against over-reliance and social isolation. These cards guide designers to protect users, plan for time, and support human relationships.
+
+
 </details>
 
 ---
