@@ -171,7 +171,12 @@ One night, because the robot had failed to charge successfully during the day, i
 Although the robot detected the problem and called her daughter and the nearby medical center in time, and the result showed that Mary’s body was fine, she still refused to keep the robot at home again.
 
 Problems with this scenario response: The robot can rocognize people’s emotion and other data and try to offer help. But users’trust to the robot are so low that even they share the same goal, the users still cannot accept the robot’s help as a daily routine.
+
+#### Result
+The Trust × Understanding Matrix reveals key problems in user–robot interaction. Low trust and low understanding cause fear and miscommunication, as seen with Bob. High trust and low understanding lead to user tolerance but task failure, like with Grandma Zhang. Low trust and high understanding, as with Mary, turn helpful actions into perceived threats. Only high trust and high understanding create smooth interaction. The method helps spot these mismatches and guides design fixes like better emotion detection, task logic, and transparent robot behavior.
+
 </details>
+
 
 ---
 
