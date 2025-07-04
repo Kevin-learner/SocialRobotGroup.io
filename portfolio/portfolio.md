@@ -175,8 +175,8 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 
 ---
 
-
-### Expressiveness
+<details>
+<summary><strong> Expressiveness </strong></summary>
 observation of paper-puppeteering：
 
 observation recording: https://youtu.be/jthQCp5BSxM
@@ -336,8 +336,11 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 - `Role-aware access control`  
 - `Affective computing (respectful tone and privacy handling)`
 
+</details>
+
 ---
 
+<details>
 ### Sustainability and ethics
 Envisioning Cards are a practical design tool developed to translate complex theoretical concepts—especially from Value Sensitive Design (VSD) and Multi-lifespan Design (MLD)—into concrete actions for designers. [Yoo, Daisy and Logler, Nick and Ballard, Stephanie and Friedman, Batya, "Multi-lifespan Envisioning Cards: Journeying from Design Theory to Tools for Action,"2022, Association for Computing Machinery](https://dl.acm.org/doi/pdf/10.1145/3532106.3533495)
 By applying the four aspects of the envision card: Changing Hands, Environmental Sustainability, The Long Now, Work of the Future, we can consider the ethical issues of robots and their relationship with people during the design process.
@@ -352,8 +355,6 @@ According to the envision cards "The Long Now", we envision a 50-year old who ha
 At the age of 50, the robot intervenes in life as a practical tool, but not a core part of life. By the age of 55, the elderly have become accustomed to the company of the robot and begin to rely more on the robot for daily reminders and health monitoring. At the age of 60, the elderly may be highly dependent on the robot both physically and emotionally, and the family also fully trusts the robot to take care of the elderly. At the age of 70, the robot even replaces the elderly's existing interpersonal relationships to some extent, weakening personal autonomy and initiative.
 The ethical concern highlighted here is that over-reliance on robots may lead to social isolation over time, weakening the connection between people and human communities.
 This long-term change needs to be considered in the design stage to ensure that robots complement rather than replace the care of the elderly, and promote relationships between people rather than isolate people's social relationship.
-####
-
 ####
 </details>
 
