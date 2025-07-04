@@ -358,6 +358,10 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 
 </details>
 
+### Result
+The tool helped design five clear care scenarios for the ROSE robot. Each one shows a daily task with short dialogue and needed technologies. Tasks include reaching items, cleaning, health checks, and sharing results. The method links user intent to robot actions. It highlights key tech like speech, vision, and safe touch. It also shows the need for context, emotion, and privacy. This supports clear, human-friendly robot design.
+
+
 ---
 
 
